@@ -41,6 +41,5 @@ b0dccc483a3accd6 *data/levels/azt-sp01/azt-sp01.bsp
 - [Forsaken ProjectX Windows Direct3D Source](https://github.com/commercial-game-sources/forsaken)
 - [Forsaken 64 Level/Model Viewer](https://github.com/hack64-net/rotm/tree/master/forsaken_64)
 - [Forsaken OST FLAC](https://downloads.khinsider.com/game-soundtracks/album/forsaken-the-music)
-- [Donna DeCianni - Forsaken Model and Actress](https://www.imdb.com/name/nm1125678/)
 - [Forsaken 64 OST USF](https://www.zophar.net/music/nintendo-64-usf/forsaken-64)
 - [Donna DeCianni - Forsaken Model and Actress](https://www.imdb.com/name/nm1125678/)
